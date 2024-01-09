@@ -1,11 +1,12 @@
 # To-Do List Web App
 
-This is a basic To-Do List web application that allows users to add tasks, mark them as completed, and move them between the "Added Tasks" and "Completed Tasks" sections.
+This is a basic To-Do List web application that allows users to add tasks and delete them when they are completed.
 
 
 Features
  - Add Task: Enter a new task in the input field and click the "Add Task" button to add it to the "Added Tasks" section.
  - Delete Task: For each task in the "Added Tasks" or "Completed Tasks" sections, there is a "Delete" button to remove the task.
+ - However, reloading the page resets everything.
 
 
 Structure
